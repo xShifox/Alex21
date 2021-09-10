@@ -2,8 +2,8 @@
 void swapf(int ,int );
 int main()
 {
-   int x, y;
-   
+   int x, y,z;
+   //shifo
    printf("Input two Numbers (x & y) to swap\n");
    scanf("%d%d", &x, &y);
    printf("Before swap x = %d\t y = %d\n",x,y);
